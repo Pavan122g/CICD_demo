@@ -23,5 +23,5 @@ jobs:
 
       - name: Run job
         run: |
-          echo "Running job for variables"
+          echo "Running job"
           sleep 1
